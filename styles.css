@@ -1,0 +1,38 @@
+body {
+    margin: 20px;
+
+    font-family:'San Francisco', Helvetica, Arial, san-serif;
+    font-size: large;
+}
+
+.avatar {
+    width: 150px;
+    background-color: #ECE5C7;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px ;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background:#C2DEDC;
+    color: #606C5D;
+    border-bottom: 15px solid #CDC2AE;
+    border-top: 7.5px solid #116A7B; box-shadow:
+    0 0 0 7.5px #E3F4F4,
+    0 0 0 15px #D2E9E9,
+    0 0 0 22.5px #E3F4F4,
+    0 0 0 30px #D2E9E9
+    ;
+
+        
+    
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+
